@@ -1,0 +1,4 @@
+.idea/
+conf-console/target/
+conf-server/target/
+conf-client/target/
